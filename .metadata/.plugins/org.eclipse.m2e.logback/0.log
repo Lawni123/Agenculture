@@ -1,0 +1,2 @@
+2025-07-17 22:40:42,214 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-07-17 22:48:12,374 [Worker-39: https://download.eclipse.org/jetty/updates/jetty-wtp/1.0.0.201203011137/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://archive.eclipse.org:443
